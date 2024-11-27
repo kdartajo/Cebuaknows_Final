@@ -1,0 +1,15 @@
+.logo-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-container {
+    margin-bottom: 10px; /* Adjust spacing if needed */
+}
+
+.logo-text img {
+    width: 160px; /* Adjust the width as needed */  
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 15px; /* Rounded corners */
+}
